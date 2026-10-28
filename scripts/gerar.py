@@ -561,23 +561,6 @@ def svg_terminal(agora, est, projetos):
 """
 
 
-# ---------------------------------------------------------------- README
-
-def atualizar_readme(projetos):
-    """Imagens em <img> não têm links, então a lista clicável fica no próprio README."""
-    readme = RAIZ / "README.md"
-    texto = readme.read_text(encoding="utf-8")
-    inicio, fim = "<!-- projetos:inicio -->", "<!-- projetos:fim -->"
-    if inicio not in texto or fim not in texto:
-        return
-    linhas = ["| Projeto | Linguagem | Sobre |", "| --- | --- | --- |"]
-    linhas += [f"| [**{pr['nome']}**]({pr['url']}) | {pr['lingua']} | {pr['descricao']} |" for pr in projetos]
-    antes, resto = texto.split(inicio, 1)
-    tabela = "\n".join(linhas)
-    texto = f"{antes}{inicio}\n{tabela}\n{fim}{resto.split(fim, 1)[1]}"
-    readme.write_text(texto, encoding="utf-8")
-
-
 # ---------------------------------------------------------------- main
 
 def main():
@@ -592,8 +575,6 @@ def main():
     SAIDA.mkdir(exist_ok=True)
     (SAIDA / "header.svg").write_text(svg_header(agora, cl, c), encoding="utf-8")
     (SAIDA / "terminal.svg").write_text(svg_terminal(agora, estatisticas(c, agora.date()), c["projetos"] if c else []), encoding="utf-8")
-    if c:
-        atualizar_readme(c["projetos"])
     print(f"ok: {agora:%d/%m %H:%M}, {descricao(cl['codigo'])}, {fase(agora, cl['nascer'], cl['por'])}")
 
 
