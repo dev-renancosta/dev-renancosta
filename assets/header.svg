@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img"
-  aria-label="Porto de Itajaí agora: bom dia, 24°C · nublado">
-<title>RENAN COSTA: porto de Itajaí agora, 24°C · nublado</title>
+  aria-label="Porto de Itajaí agora: boa tarde, 22°C · nublado">
+<title>RENAN COSTA: porto de Itajaí agora, 22°C · nublado</title>
 <style><![CDATA[
 .tw{animation:tw 3s ease-in-out infinite}
 @keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
@@ -43,8 +43,8 @@
     <stop offset="0" stop-color="#fff2c4" stop-opacity=".9"/><stop offset=".35" stop-color="#ffd36b" stop-opacity=".45"/>
     <stop offset="1" stop-color="#ffd36b" stop-opacity="0"/>
   </radialGradient>
-  <mask id="crescente"><circle cx="442" cy="59" r="17" fill="#fff"/>
-    <circle cx="450" cy="54" r="14" fill="#000"/></mask>
+  <mask id="crescente"><circle cx="831" cy="195" r="17" fill="#fff"/>
+    <circle cx="839" cy="190" r="14" fill="#000"/></mask>
   <pattern id="janelas" width="7" height="10" patternUnits="userSpaceOnUse">
     <rect x="2" y="3" width="3" height="4" fill="#fff" fill-opacity="0.16"/>
   </pattern>
@@ -220,14 +220,14 @@
 <g class="onda" style="animation-duration:10s"><path d="M-40 316 q10 -2.7 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.13" stroke-width="1.4"/></g>
 <g class="onda" style="animation-duration:12s"><path d="M-40 333 q10 -3.3 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.16" stroke-width="1.4"/></g>
 <g class="onda" style="animation-duration:14s"><path d="M-40 350 q10 -3.9 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.19" stroke-width="1.4"/></g>
-<g class="navio" style="animation-duration:110s;animation-delay:-4s"><g class="balanca">
+<g class="navio" style="animation-duration:110s;animation-delay:-35s"><g class="balanca">
   <g transform="translate(0 296) scale(1)">
     <polygon points="0,-6 236,-6 250,-14 238,12 10,12" fill="#1b2333"/>
     <rect x="9" y="6" width="232" height="6" fill="#8b2c2c"/>
     <rect x="8" y="-38" width="26" height="32" fill="#dfe3ea"/>
     <rect x="14" y="-46" width="7" height="8" fill="#8b2c2c"/><rect x="11" y="-34" width="20" height="3" fill="#1b2333"/>
   </g></g></g>
-<g class="barco" style="animation-delay:-14s"><g class="balanca"><g transform="translate(0 326)">
+<g class="barco" style="animation-delay:-63s"><g class="balanca"><g transform="translate(0 326)">
     <polygon points="0,-3 62,-3 56,8 6,8" fill="#e8ecf1"/>
     <rect x="34" y="-16" width="16" height="13" fill="#e8ecf1"/>
     <line x1="18" y1="-3" x2="18" y2="-30" stroke="#18304d" stroke-width="1.5"/>
@@ -240,9 +240,9 @@
     fill="url(#brilho)">RENAN COSTA</text>
   <text class="entra d1" x="50" y="109" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#cfe3ff">Estudante de Engenharia de Software</text>
   <text class="entra d2" x="50" y="139" font-family="Consolas, 'DejaVu Sans Mono', Menlo, 'Courier New', monospace" font-size="13.5" fill="#fff">
-    <tspan fill="#7ee787">●</tspan> Bom dia de Itajaí - SC · 11h02 · 24°C · nublado</text>
+    <tspan fill="#7ee787">●</tspan> Boa tarde de Itajaí - SC · 17h19 · 22°C · nublado</text>
   <text class="entra d3" x="50" y="160" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#fff" fill-opacity=".62">prédios: minhas semanas de código · contêineres: meus commits · navio: hoje</text>
   <text x="986" y="350" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, 'Courier New', monospace" font-size="10" fill="#fff"
-    fill-opacity=".45">atualizado 06/11 11h02</text>
+    fill-opacity=".45">atualizado 06/11 17h19</text>
 </g>
 </svg>
