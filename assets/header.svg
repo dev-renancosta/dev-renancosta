@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img"
-  aria-label="Porto de Itajaí agora: bom dia, 19°C · neblina">
-<title>RENAN COSTA: porto de Itajaí agora, 19°C · neblina</title>
+  aria-label="Porto de Itajaí agora: boa tarde, 25°C · nublado">
+<title>RENAN COSTA: porto de Itajaí agora, 25°C · nublado</title>
 <style><![CDATA[
 .tw{animation:tw 3s ease-in-out infinite}
 @keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
@@ -43,8 +43,8 @@
     <stop offset="0" stop-color="#fff2c4" stop-opacity=".9"/><stop offset=".35" stop-color="#ffd36b" stop-opacity=".45"/>
     <stop offset="1" stop-color="#ffd36b" stop-opacity="0"/>
   </radialGradient>
-  <mask id="crescente"><circle cx="169" cy="194" r="17" fill="#fff"/>
-    <circle cx="177" cy="189" r="14" fill="#000"/></mask>
+  <mask id="crescente"><circle cx="688" cy="103" r="17" fill="#fff"/>
+    <circle cx="696" cy="98" r="14" fill="#000"/></mask>
   <pattern id="janelas" width="7" height="10" patternUnits="userSpaceOnUse">
     <rect x="2" y="3" width="3" height="4" fill="#fff" fill-opacity="0.16"/>
   </pattern>
@@ -63,10 +63,11 @@
 <g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:134s;animation-delay:-33s"><ellipse cx="0" cy="31" rx="45" ry="15"/><ellipse cx="31" cy="21" rx="30" ry="18"/><ellipse cx="63" cy="31" rx="39" ry="14"/><ellipse cx="-28" cy="35" rx="26" ry="10"/></g>
 <g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:153s;animation-delay:-121s"><ellipse cx="0" cy="76" rx="62" ry="20"/><ellipse cx="43" cy="63" rx="41" ry="24"/><ellipse cx="87" cy="76" rx="54" ry="19"/><ellipse cx="-38" cy="82" rx="35" ry="14"/></g>
 <g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:124s;animation-delay:-96s"><ellipse cx="0" cy="120" rx="40" ry="13"/><ellipse cx="28" cy="111" rx="26" ry="16"/><ellipse cx="55" cy="120" rx="35" ry="12"/><ellipse cx="-24" cy="123" rx="22" ry="9"/></g>
-<g class="ave" style="animation-delay:-8s"><path d="M4 100 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
-<g class="ave" style="animation-delay:-11s"><path d="M23 98 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
-<g class="ave" style="animation-delay:-14s"><path d="M47 108 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
-<g class="ave" style="animation-delay:-17s"><path d="M74 106 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
+<g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:100s;animation-delay:-59s"><ellipse cx="0" cy="79" rx="62" ry="20"/><ellipse cx="43" cy="65" rx="40" ry="24"/><ellipse cx="86" cy="79" rx="54" ry="19"/><ellipse cx="-38" cy="84" rx="35" ry="13"/></g>
+<g class="ave" style="animation-delay:-8s"><path d="M3 96 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
+<g class="ave" style="animation-delay:-11s"><path d="M30 94 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
+<g class="ave" style="animation-delay:-14s"><path d="M49 110 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
+<g class="ave" style="animation-delay:-17s"><path d="M69 112 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
 <rect x="3.0" y="240.3" width="27.3" height="31.7" fill="#3a5f86"/><rect x="3.0" y="240.3" width="27.3" height="31.7" fill="url(#janelas)"/>
 <rect x="36.3" y="256.0" width="27.3" height="16.0" fill="#3a5f86"/><rect x="36.3" y="256.0" width="27.3" height="16.0" fill="url(#janelas)"/>
 <rect x="69.7" y="256.0" width="27.3" height="16.0" fill="#3a5f86"/><rect x="69.7" y="256.0" width="27.3" height="16.0" fill="url(#janelas)"/>
@@ -100,36 +101,36 @@
 <rect x="969.7" y="197.2" width="27.3" height="74.8" fill="#3a5f86"/><rect x="969.7" y="197.2" width="27.3" height="74.8" fill="url(#janelas)"/>
 <circle class="pisca" cx="983.3" cy="194.2" r="2" fill="#5ef0a0" style="animation-delay:.9s"/>
 <rect x="560" y="262" width="440" height="11" fill="#18304d"/>
-<rect x="572" y="253" width="12" height="8" fill="#229055"/>
-<rect x="585" y="253" width="12" height="8" fill="#2c7db5"/>
-<rect x="572" y="244" width="12" height="8" fill="#16957f"/>
-<rect x="585" y="244" width="12" height="8" fill="#c38016"/>
-<rect x="572" y="235" width="12" height="8" fill="#98a0a5"/>
-<rect x="585" y="235" width="12" height="8" fill="#2c7db5"/>
-<rect x="572" y="226" width="12" height="8" fill="#af382e"/>
-<rect x="585" y="226" width="12" height="8" fill="#98a0a5"/>
-<rect x="572" y="217" width="12" height="8" fill="#2c7db5"/>
-<rect x="585" y="217" width="12" height="8" fill="#16957f"/>
+<rect x="572" y="253" width="12" height="8" fill="#af382e"/>
+<rect x="585" y="253" width="12" height="8" fill="#98a0a5"/>
+<rect x="572" y="244" width="12" height="8" fill="#2c7db5"/>
+<rect x="585" y="244" width="12" height="8" fill="#16957f"/>
+<rect x="572" y="235" width="12" height="8" fill="#16957f"/>
+<rect x="585" y="235" width="12" height="8" fill="#733b90"/>
+<rect x="572" y="226" width="12" height="8" fill="#16957f"/>
+<rect x="585" y="226" width="12" height="8" fill="#733b90"/>
+<rect x="572" y="217" width="12" height="8" fill="#c38016"/>
+<rect x="585" y="217" width="12" height="8" fill="#af382e"/>
 <rect x="572" y="208" width="12" height="8" fill="#16957f"/>
-<rect x="585" y="208" width="12" height="8" fill="#733b90"/>
+<rect x="585" y="208" width="12" height="8" fill="#98a0a5"/>
 <rect x="572" y="199" width="12" height="8" fill="#16957f"/>
-<rect x="585" y="199" width="12" height="8" fill="#733b90"/>
-<rect x="572" y="190" width="12" height="8" fill="#c38016"/>
+<rect x="585" y="199" width="12" height="8" fill="#16957f"/>
+<rect x="572" y="190" width="12" height="8" fill="#16957f"/>
 <rect x="585" y="190" width="12" height="8" fill="#af382e"/>
-<rect x="962" y="253" width="12" height="8" fill="#16957f"/>
-<rect x="975" y="253" width="12" height="8" fill="#98a0a5"/>
-<rect x="962" y="244" width="12" height="8" fill="#16957f"/>
-<rect x="975" y="244" width="12" height="8" fill="#16957f"/>
-<rect x="962" y="235" width="12" height="8" fill="#16957f"/>
-<rect x="975" y="235" width="12" height="8" fill="#af382e"/>
-<rect x="962" y="226" width="12" height="8" fill="#733b90"/>
-<rect x="975" y="226" width="12" height="8" fill="#733b90"/>
-<rect x="962" y="217" width="12" height="8" fill="#af382e"/>
-<rect x="975" y="217" width="12" height="8" fill="#98a0a5"/>
-<rect x="962" y="208" width="12" height="8" fill="#af382e"/>
-<rect x="975" y="208" width="12" height="8" fill="#98a0a5"/>
+<rect x="962" y="253" width="12" height="8" fill="#733b90"/>
+<rect x="975" y="253" width="12" height="8" fill="#733b90"/>
+<rect x="962" y="244" width="12" height="8" fill="#af382e"/>
+<rect x="975" y="244" width="12" height="8" fill="#98a0a5"/>
+<rect x="962" y="235" width="12" height="8" fill="#af382e"/>
+<rect x="975" y="235" width="12" height="8" fill="#98a0a5"/>
+<rect x="962" y="226" width="12" height="8" fill="#af382e"/>
+<rect x="975" y="226" width="12" height="8" fill="#98a0a5"/>
+<rect x="962" y="217" width="12" height="8" fill="#229055"/>
+<rect x="975" y="217" width="12" height="8" fill="#c38016"/>
+<rect x="962" y="208" width="12" height="8" fill="#733b90"/>
+<rect x="975" y="208" width="12" height="8" fill="#c38016"/>
 <rect x="962" y="199" width="12" height="8" fill="#af382e"/>
-<rect x="975" y="199" width="12" height="8" fill="#98a0a5"/>
+<rect x="975" y="199" width="12" height="8" fill="#af382e"/>
 
   <g fill="#18304d" stroke="#18304d">
     <rect x="690" y="176" width="5" height="88"/><rect x="732" y="176" width="5" height="88"/>
@@ -144,7 +145,7 @@
       repeatCount="indefinite" values="0 0;-92 0;-92 0;0 0;0 0" keyTimes="0;.35;.5;.85;1"/>
     <rect x="700" y="177" width="14" height="5" fill="#18304d"/>
     <line x1="707" y1="182" x2="707" y2="204" stroke="#18304d" stroke-width="1"/>
-    <rect x="697" y="204" width="20" height="8" fill="#229055"/>
+    <rect x="697" y="204" width="20" height="8" fill="#98a0a5"/>
   </g>
 
   <g fill="#18304d" stroke="#18304d">
@@ -160,7 +161,7 @@
       repeatCount="indefinite" values="0 0;-92 0;-92 0;0 0;0 0" keyTimes="0;.35;.5;.85;1"/>
     <rect x="822" y="177" width="14" height="5" fill="#18304d"/>
     <line x1="829" y1="182" x2="829" y2="204" stroke="#18304d" stroke-width="1"/>
-    <rect x="819" y="204" width="20" height="8" fill="#c38016"/>
+    <rect x="819" y="204" width="20" height="8" fill="#af382e"/>
   </g>
 
   <g fill="#18304d" stroke="#18304d">
@@ -184,30 +185,29 @@
 <g class="onda" style="animation-duration:10s"><path d="M-40 316 q10 -2.7 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.13" stroke-width="1.4"/></g>
 <g class="onda" style="animation-duration:12s"><path d="M-40 333 q10 -3.3 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.16" stroke-width="1.4"/></g>
 <g class="onda" style="animation-duration:14s"><path d="M-40 350 q10 -3.9 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.19" stroke-width="1.4"/></g>
-<g class="navio" style="animation-duration:110s;animation-delay:-62s"><g class="balanca">
+<g class="navio" style="animation-duration:110s;animation-delay:-4s"><g class="balanca">
   <g transform="translate(0 296) scale(1)">
     <polygon points="0,-6 236,-6 250,-14 238,12 10,12" fill="#1b2333"/>
     <rect x="9" y="6" width="232" height="6" fill="#8b2c2c"/>
     <rect x="8" y="-38" width="26" height="32" fill="#dfe3ea"/>
     <rect x="14" y="-46" width="7" height="8" fill="#8b2c2c"/><rect x="11" y="-34" width="20" height="3" fill="#1b2333"/>
   </g></g></g>
-<g class="barco" style="animation-delay:-28s"><g class="balanca"><g transform="translate(0 326)">
+<g class="barco" style="animation-delay:-14s"><g class="balanca"><g transform="translate(0 326)">
     <polygon points="0,-3 62,-3 56,8 6,8" fill="#e8ecf1"/>
     <rect x="34" y="-16" width="16" height="13" fill="#e8ecf1"/>
     <line x1="18" y1="-3" x2="18" y2="-30" stroke="#18304d" stroke-width="1.5"/>
     <line x1="18" y1="-28" x2="-6" y2="-6" stroke="#18304d" stroke-width="1"/>
     
   </g></g></g>
-<rect width="1000" height="360" fill="url(#neblina)"/>
 <g class="entra"><rect x="24" y="24" width="560" height="152" rx="14" fill="#060a18"
       fill-opacity=".58" stroke="#fff" stroke-opacity=".14"/></g>
   <text class="entra" x="48" y="80" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="5"
     fill="url(#brilho)">RENAN COSTA</text>
   <text class="entra d1" x="50" y="109" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#cfe3ff">Estudante de Engenharia de Software</text>
   <text class="entra d2" x="50" y="139" font-family="Consolas, 'DejaVu Sans Mono', Menlo, 'Courier New', monospace" font-size="13.5" fill="#fff">
-    <tspan fill="#7ee787">●</tspan> Bom dia de Itajaí - SC · 06h34 · 19°C · neblina</text>
+    <tspan fill="#7ee787">●</tspan> Boa tarde de Itajaí - SC · 15h02 · 25°C · nublado</text>
   <text class="entra d3" x="50" y="160" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#fff" fill-opacity=".62">prédios: minhas semanas de código · contêineres: meus commits · navio: hoje</text>
   <text x="986" y="350" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, 'Courier New', monospace" font-size="10" fill="#fff"
-    fill-opacity=".45">atualizado 12/11 06h34</text>
+    fill-opacity=".45">atualizado 12/11 15h02</text>
 </g>
 </svg>
