@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="1000" height="360" role="img"
-  aria-label="Porto de Itajaí agora: bom dia, 21°C · parcialmente nublado">
-<title>RENAN COSTA: porto de Itajaí agora, 21°C · parcialmente nublado</title>
+  aria-label="Porto de Itajaí agora: boa tarde, 25°C · nublado">
+<title>RENAN COSTA: porto de Itajaí agora, 25°C · nublado</title>
 <style><![CDATA[
 .tw{animation:tw 3s ease-in-out infinite}
 @keyframes tw{0%,100%{opacity:.2}50%{opacity:1}}
@@ -31,10 +31,10 @@
 <defs>
   <clipPath id="moldura"><rect width="1000" height="360" rx="16"/></clipPath>
   <linearGradient id="ceu" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#1f6fca"/><stop offset=".6" stop-color="#4f9fe6"/><stop offset="1" stop-color="#b6deff"/>
+    <stop offset="0" stop-color="#4973a4"/><stop offset=".6" stop-color="#5e88b1"/><stop offset="1" stop-color="#8da5bc"/>
   </linearGradient>
   <linearGradient id="agua" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#2b6aa6"/><stop offset="1" stop-color="#0f3157"/>
+    <stop offset="0" stop-color="#315b84"/><stop offset="1" stop-color="#213955"/>
   </linearGradient>
   <linearGradient id="neblina" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#dfe5ec" stop-opacity=".15"/><stop offset=".8" stop-color="#dfe5ec" stop-opacity=".55"/>
@@ -43,8 +43,8 @@
     <stop offset="0" stop-color="#fff2c4" stop-opacity=".9"/><stop offset=".35" stop-color="#ffd36b" stop-opacity=".45"/>
     <stop offset="1" stop-color="#ffd36b" stop-opacity="0"/>
   </radialGradient>
-  <mask id="crescente"><circle cx="195" cy="175" r="17" fill="#fff"/>
-    <circle cx="203" cy="170" r="14" fill="#000"/></mask>
+  <mask id="crescente"><circle cx="591" cy="66" r="17" fill="#fff"/>
+    <circle cx="599" cy="61" r="14" fill="#000"/></mask>
   <pattern id="janelas" width="7" height="10" patternUnits="userSpaceOnUse">
     <rect x="2" y="3" width="3" height="4" fill="#fff" fill-opacity="0.16"/>
   </pattern>
@@ -56,16 +56,18 @@
 </defs>
 <g clip-path="url(#moldura)">
 <rect width="1000" height="360" fill="url(#ceu)"/>
-<circle cx="195" cy="175" r="70" fill="url(#halo)"/><circle cx="195" cy="175" r="22" fill="#fff4cf"/>
-<g class="nuvem" fill="#ffffff" opacity="0.8" style="animation-duration:99s;animation-delay:-55s"><ellipse cx="0" cy="41" rx="57" ry="18"/><ellipse cx="39" cy="28" rx="37" ry="22"/><ellipse cx="79" cy="41" rx="49" ry="17"/><ellipse cx="-34" cy="46" rx="32" ry="12"/></g>
-<g class="nuvem" fill="#ffffff" opacity="0.8" style="animation-duration:100s;animation-delay:-24s"><ellipse cx="0" cy="75" rx="56" ry="18"/><ellipse cx="39" cy="63" rx="36" ry="22"/><ellipse cx="77" cy="75" rx="48" ry="17"/><ellipse cx="-34" cy="80" rx="31" ry="12"/></g>
-<g class="nuvem" fill="#ffffff" opacity="0.8" style="animation-duration:112s;animation-delay:-27s"><ellipse cx="0" cy="168" rx="41" ry="13"/><ellipse cx="29" cy="159" rx="27" ry="16"/><ellipse cx="57" cy="168" rx="36" ry="12"/><ellipse cx="-25" cy="171" rx="23" ry="9"/></g>
-<g class="nuvem" fill="#ffffff" opacity="0.8" style="animation-duration:122s;animation-delay:-44s"><ellipse cx="0" cy="111" rx="33" ry="11"/><ellipse cx="23" cy="104" rx="22" ry="13"/><ellipse cx="46" cy="111" rx="29" ry="10"/><ellipse cx="-20" cy="114" rx="19" ry="7"/></g>
-<g class="nuvem" fill="#ffffff" opacity="0.8" style="animation-duration:162s;animation-delay:-96s"><ellipse cx="0" cy="90" rx="41" ry="13"/><ellipse cx="29" cy="81" rx="27" ry="16"/><ellipse cx="57" cy="90" rx="36" ry="12"/><ellipse cx="-25" cy="93" rx="23" ry="9"/></g>
-<g class="ave" style="animation-delay:-8s"><path d="M1 99 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
-<g class="ave" style="animation-delay:-11s"><path d="M31 87 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
-<g class="ave" style="animation-delay:-14s"><path d="M45 90 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
-<g class="ave" style="animation-delay:-17s"><path d="M75 103 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
+<g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:99s;animation-delay:-55s"><ellipse cx="0" cy="41" rx="57" ry="18"/><ellipse cx="39" cy="28" rx="37" ry="22"/><ellipse cx="79" cy="41" rx="49" ry="17"/><ellipse cx="-34" cy="46" rx="32" ry="12"/></g>
+<g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:100s;animation-delay:-24s"><ellipse cx="0" cy="75" rx="56" ry="18"/><ellipse cx="39" cy="63" rx="36" ry="22"/><ellipse cx="77" cy="75" rx="48" ry="17"/><ellipse cx="-34" cy="80" rx="31" ry="12"/></g>
+<g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:112s;animation-delay:-27s"><ellipse cx="0" cy="168" rx="41" ry="13"/><ellipse cx="29" cy="159" rx="27" ry="16"/><ellipse cx="57" cy="168" rx="36" ry="12"/><ellipse cx="-25" cy="171" rx="23" ry="9"/></g>
+<g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:122s;animation-delay:-44s"><ellipse cx="0" cy="111" rx="33" ry="11"/><ellipse cx="23" cy="104" rx="22" ry="13"/><ellipse cx="46" cy="111" rx="29" ry="10"/><ellipse cx="-20" cy="114" rx="19" ry="7"/></g>
+<g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:162s;animation-delay:-96s"><ellipse cx="0" cy="90" rx="41" ry="13"/><ellipse cx="29" cy="81" rx="27" ry="16"/><ellipse cx="57" cy="90" rx="36" ry="12"/><ellipse cx="-25" cy="93" rx="23" ry="9"/></g>
+<g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:168s;animation-delay:-23s"><ellipse cx="0" cy="42" rx="60" ry="20"/><ellipse cx="42" cy="29" rx="39" ry="24"/><ellipse cx="84" cy="42" rx="52" ry="18"/><ellipse cx="-37" cy="47" rx="34" ry="13"/></g>
+<g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:172s;animation-delay:-52s"><ellipse cx="0" cy="33" rx="32" ry="11"/><ellipse cx="23" cy="26" rx="21" ry="13"/><ellipse cx="45" cy="33" rx="28" ry="10"/><ellipse cx="-20" cy="35" rx="18" ry="7"/></g>
+<g class="nuvem" fill="#b6bbc1" opacity="0.55" style="animation-duration:151s;animation-delay:-84s"><ellipse cx="0" cy="91" rx="56" ry="18"/><ellipse cx="39" cy="78" rx="37" ry="22"/><ellipse cx="78" cy="91" rx="49" ry="17"/><ellipse cx="-34" cy="96" rx="32" ry="12"/></g>
+<g class="ave" style="animation-delay:-8s"><path d="M3 97 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
+<g class="ave" style="animation-delay:-11s"><path d="M22 95 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
+<g class="ave" style="animation-delay:-14s"><path d="M52 99 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
+<g class="ave" style="animation-delay:-17s"><path d="M72 109 q5 -5 10 0 q5 -5 10 0" fill="none" stroke="#18304d" stroke-width="1.6"/></g>
 <rect x="3.0" y="240.3" width="27.3" height="31.7" fill="#3a5f86"/><rect x="3.0" y="240.3" width="27.3" height="31.7" fill="url(#janelas)"/>
 <rect x="36.3" y="256.0" width="27.3" height="16.0" fill="#3a5f86"/><rect x="36.3" y="256.0" width="27.3" height="16.0" fill="url(#janelas)"/>
 <rect x="69.7" y="256.0" width="27.3" height="16.0" fill="#3a5f86"/><rect x="69.7" y="256.0" width="27.3" height="16.0" fill="url(#janelas)"/>
@@ -99,26 +101,26 @@
 <rect x="969.7" y="185.7" width="27.3" height="86.3" fill="#3a5f86"/><rect x="969.7" y="185.7" width="27.3" height="86.3" fill="url(#janelas)"/>
 <circle class="pisca" cx="983.3" cy="182.7" r="2" fill="#5ef0a0" style="animation-delay:.9s"/>
 <rect x="560" y="262" width="440" height="11" fill="#18304d"/>
-<rect x="902" y="253" width="12" height="8" fill="#229055"/>
-<rect x="915" y="253" width="12" height="8" fill="#16957f"/>
-<rect x="902" y="244" width="12" height="8" fill="#98a0a5"/>
-<rect x="915" y="244" width="12" height="8" fill="#733b90"/>
+<rect x="902" y="253" width="12" height="8" fill="#2c7db5"/>
+<rect x="915" y="253" width="12" height="8" fill="#733b90"/>
+<rect x="902" y="244" width="12" height="8" fill="#c38016"/>
+<rect x="915" y="244" width="12" height="8" fill="#98a0a5"/>
 <rect x="902" y="235" width="12" height="8" fill="#98a0a5"/>
-<rect x="915" y="235" width="12" height="8" fill="#c38016"/>
-<rect x="902" y="226" width="12" height="8" fill="#733b90"/>
-<rect x="915" y="226" width="12" height="8" fill="#2c7db5"/>
-<rect x="902" y="217" width="12" height="8" fill="#c38016"/>
+<rect x="915" y="235" width="12" height="8" fill="#af382e"/>
+<rect x="902" y="226" width="12" height="8" fill="#229055"/>
+<rect x="915" y="226" width="12" height="8" fill="#c38016"/>
+<rect x="902" y="217" width="12" height="8" fill="#2c7db5"/>
 <rect x="915" y="217" width="12" height="8" fill="#733b90"/>
-<rect x="902" y="208" width="12" height="8" fill="#16957f"/>
-<rect x="915" y="208" width="12" height="8" fill="#af382e"/>
-<rect x="902" y="199" width="12" height="8" fill="#16957f"/>
+<rect x="902" y="208" width="12" height="8" fill="#af382e"/>
+<rect x="915" y="208" width="12" height="8" fill="#229055"/>
+<rect x="902" y="199" width="12" height="8" fill="#733b90"/>
 <rect x="915" y="199" width="12" height="8" fill="#229055"/>
 <rect x="962" y="253" width="12" height="8" fill="#16957f"/>
-<rect x="975" y="253" width="12" height="8" fill="#16957f"/>
-<rect x="962" y="244" width="12" height="8" fill="#c38016"/>
-<rect x="975" y="244" width="12" height="8" fill="#229055"/>
-<rect x="962" y="235" width="12" height="8" fill="#2c7db5"/>
-<rect x="975" y="235" width="12" height="8" fill="#733b90"/>
+<rect x="975" y="253" width="12" height="8" fill="#2c7db5"/>
+<rect x="962" y="244" width="12" height="8" fill="#af382e"/>
+<rect x="975" y="244" width="12" height="8" fill="#c38016"/>
+<rect x="962" y="235" width="12" height="8" fill="#c38016"/>
+<rect x="975" y="235" width="12" height="8" fill="#2c7db5"/>
 
   <g fill="#18304d" stroke="#18304d">
     <rect x="690" y="176" width="5" height="88"/><rect x="732" y="176" width="5" height="88"/>
@@ -149,7 +151,7 @@
       repeatCount="indefinite" values="0 0;-92 0;-92 0;0 0;0 0" keyTimes="0;.35;.5;.85;1"/>
     <rect x="822" y="177" width="14" height="5" fill="#18304d"/>
     <line x1="829" y1="182" x2="829" y2="204" stroke="#18304d" stroke-width="1"/>
-    <rect x="819" y="204" width="20" height="8" fill="#733b90"/>
+    <rect x="819" y="204" width="20" height="8" fill="#98a0a5"/>
   </g>
 
   <g fill="#18304d" stroke="#18304d">
@@ -165,29 +167,22 @@
       repeatCount="indefinite" values="0 0;-92 0;-92 0;0 0;0 0" keyTimes="0;.35;.5;.85;1"/>
     <rect x="944" y="177" width="14" height="5" fill="#18304d"/>
     <line x1="951" y1="182" x2="951" y2="204" stroke="#18304d" stroke-width="1"/>
-    <rect x="941" y="204" width="20" height="8" fill="#c38016"/>
+    <rect x="941" y="204" width="20" height="8" fill="#98a0a5"/>
   </g>
 <rect x="0" y="272" width="1000" height="88" fill="url(#agua)"/>
-<rect class="tw" x="186" y="278" width="18" height="2" fill="#ffe7a8" opacity=".5" style="animation-delay:0.0s"/>
-<rect class="tw" x="184" y="289" width="23" height="2" fill="#ffe7a8" opacity=".5" style="animation-delay:0.4s"/>
-<rect class="tw" x="181" y="300" width="29" height="2" fill="#ffe7a8" opacity=".5" style="animation-delay:0.8s"/>
-<rect class="tw" x="180" y="311" width="31" height="2" fill="#ffe7a8" opacity=".5" style="animation-delay:1.2s"/>
-<rect class="tw" x="188" y="322" width="14" height="2" fill="#ffe7a8" opacity=".5" style="animation-delay:1.6s"/>
-<rect class="tw" x="187" y="333" width="16" height="2" fill="#ffe7a8" opacity=".5" style="animation-delay:2.0s"/>
-<rect class="tw" x="190" y="344" width="11" height="2" fill="#ffe7a8" opacity=".5" style="animation-delay:2.4s"/>
 <g class="onda" style="animation-duration:6s"><path d="M-40 282 q10 -1.5 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.07" stroke-width="1.4"/></g>
 <g class="onda" style="animation-duration:8s"><path d="M-40 299 q10 -2.1 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.1" stroke-width="1.4"/></g>
 <g class="onda" style="animation-duration:10s"><path d="M-40 316 q10 -2.7 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.13" stroke-width="1.4"/></g>
 <g class="onda" style="animation-duration:12s"><path d="M-40 333 q10 -3.3 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.16" stroke-width="1.4"/></g>
 <g class="onda" style="animation-duration:14s"><path d="M-40 350 q10 -3.9 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0" fill="none" stroke="#fff" stroke-opacity="0.19" stroke-width="1.4"/></g>
-<g class="navio" style="animation-duration:110s;animation-delay:-108s"><g class="balanca">
+<g class="navio" style="animation-duration:110s;animation-delay:-51s"><g class="balanca">
   <g transform="translate(0 296) scale(1)">
     <polygon points="0,-6 236,-6 250,-14 238,12 10,12" fill="#1b2333"/>
     <rect x="9" y="6" width="232" height="6" fill="#8b2c2c"/>
     <rect x="8" y="-38" width="26" height="32" fill="#dfe3ea"/>
     <rect x="14" y="-46" width="7" height="8" fill="#8b2c2c"/><rect x="11" y="-34" width="20" height="3" fill="#1b2333"/>
   </g></g></g>
-<g class="barco" style="animation-delay:-63s"><g class="balanca"><g transform="translate(0 326)">
+<g class="barco" style="animation-delay:-56s"><g class="balanca"><g transform="translate(0 326)">
     <polygon points="0,-3 62,-3 56,8 6,8" fill="#e8ecf1"/>
     <rect x="34" y="-16" width="16" height="13" fill="#e8ecf1"/>
     <line x1="18" y1="-3" x2="18" y2="-30" stroke="#18304d" stroke-width="1.5"/>
@@ -200,9 +195,9 @@
     fill="url(#brilho)">RENAN COSTA</text>
   <text class="entra d1" x="50" y="109" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" fill="#cfe3ff">Estudante de Engenharia de Software</text>
   <text class="entra d2" x="50" y="139" font-family="Consolas, 'DejaVu Sans Mono', Menlo, 'Courier New', monospace" font-size="13.5" fill="#fff">
-    <tspan fill="#7ee787">●</tspan> Bom dia de Itajaí - SC · 06h59 · 21°C · parcialmente nublado</text>
+    <tspan fill="#7ee787">●</tspan> Boa tarde de Itajaí - SC · 13h28 · 25°C · nublado</text>
   <text class="entra d3" x="50" y="160" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="11.5" fill="#fff" fill-opacity=".62">prédios: minhas semanas de código · contêineres: meus commits · navio: hoje</text>
   <text x="986" y="350" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', Menlo, 'Courier New', monospace" font-size="10" fill="#fff"
-    fill-opacity=".45">atualizado 14/11 06h59</text>
+    fill-opacity=".45">atualizado 14/11 13h28</text>
 </g>
 </svg>
